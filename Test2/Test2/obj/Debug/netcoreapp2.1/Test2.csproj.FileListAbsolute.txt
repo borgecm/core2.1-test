@@ -1,0 +1,14 @@
+C:\Users\César\Documents\internship project\Backend\Test2\Test2\bin\Debug\netcoreapp2.1\Test2.deps.json
+C:\Users\César\Documents\internship project\Backend\Test2\Test2\bin\Debug\netcoreapp2.1\Test2.runtimeconfig.json
+C:\Users\César\Documents\internship project\Backend\Test2\Test2\bin\Debug\netcoreapp2.1\Test2.runtimeconfig.dev.json
+C:\Users\César\Documents\internship project\Backend\Test2\Test2\bin\Debug\netcoreapp2.1\Test2.dll
+C:\Users\César\Documents\internship project\Backend\Test2\Test2\obj\Debug\netcoreapp2.1\Test2.csprojAssemblyReference.cache
+C:\Users\César\Documents\internship project\Backend\Test2\Test2\obj\Debug\netcoreapp2.1\Test2.csproj.CoreCompileInputs.cache
+C:\Users\César\Documents\internship project\Backend\Test2\Test2\obj\Debug\netcoreapp2.1\Test2.RazorAssemblyInfo.cache
+C:\Users\César\Documents\internship project\Backend\Test2\Test2\obj\Debug\netcoreapp2.1\Test2.RazorAssemblyInfo.cs
+C:\Users\César\Documents\internship project\Backend\Test2\Test2\obj\Debug\netcoreapp2.1\Test2.AssemblyInfoInputs.cache
+C:\Users\César\Documents\internship project\Backend\Test2\Test2\obj\Debug\netcoreapp2.1\Test2.AssemblyInfo.cs
+C:\Users\César\Documents\internship project\Backend\Test2\Test2\obj\Debug\netcoreapp2.1\Test2.RazorTargetAssemblyInfo.cache
+C:\Users\César\Documents\internship project\Backend\Test2\Test2\bin\Debug\netcoreapp2.1\Test2.pdb
+C:\Users\César\Documents\internship project\Backend\Test2\Test2\obj\Debug\netcoreapp2.1\Test2.dll
+C:\Users\César\Documents\internship project\Backend\Test2\Test2\obj\Debug\netcoreapp2.1\Test2.pdb
